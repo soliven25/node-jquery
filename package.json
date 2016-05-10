@@ -1,0 +1,15 @@
+{
+  "name": "jquery-test",
+  "version": "0.0.8",
+  "description": "test jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "SKC",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "jsdom": "^9.0.0"
+  }
+}
